@@ -30,3 +30,6 @@ A aplicação foi desenvolvida utilizando Streamlit, permitindo uma navegação 
 <img src="https://github.com/user-attachments/assets/67760550-e872-42ef-9c08-1ee78501c503" width="800"/>
 <img src="https://github.com/user-attachments/assets/d3075204-7cb4-4baf-87b2-60ad428f5a05" width="800"/>
 <img src="https://github.com/user-attachments/assets/7b4d765a-21b4-4c4a-afed-0dd871a85968" width="800"/>
+
+## 👨‍💻 Autor
+Desenvolvido por Henrique Neto.
